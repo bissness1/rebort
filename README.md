@@ -1,4 +1,4 @@
-# TGVid-Comp
+# TGVid-Info Bot
 
 A Telegram Bot To Info Videos Using FFMPEG.
 
