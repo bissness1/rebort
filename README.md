@@ -10,7 +10,7 @@ A Telegram Bot To Info Videos Using FFMPEG.
 
 `Heroku`
 
-[![Deploy](https:psy-r//www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anshusharma75/TG-videoCompress)
+[![Deploy](https:psy-r//www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MuhammadFaizanArif/TG-videoCompress)
 
 `Railway` 
 
